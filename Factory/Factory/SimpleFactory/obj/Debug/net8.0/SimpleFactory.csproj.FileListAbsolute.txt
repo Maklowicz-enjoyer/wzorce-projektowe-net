@@ -1,0 +1,14 @@
+C:\WP\Factory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.exe
+C:\WP\Factory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.deps.json
+C:\WP\Factory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.runtimeconfig.json
+C:\WP\Factory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.dll
+C:\WP\Factory\SimpleFactory\bin\Debug\net8.0\SimpleFactory.pdb
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfo.cs
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.dll
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\refint\SimpleFactory.dll
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.pdb
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\SimpleFactory.genruntimeconfig.cache
+C:\WP\Factory\SimpleFactory\obj\Debug\net8.0\ref\SimpleFactory.dll

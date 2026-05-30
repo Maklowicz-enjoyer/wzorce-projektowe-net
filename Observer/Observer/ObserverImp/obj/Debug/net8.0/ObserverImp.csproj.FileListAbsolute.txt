@@ -1,0 +1,14 @@
+C:\WP\Observer\ObserverImp\bin\Debug\net8.0\ObserverImp.exe
+C:\WP\Observer\ObserverImp\bin\Debug\net8.0\ObserverImp.deps.json
+C:\WP\Observer\ObserverImp\bin\Debug\net8.0\ObserverImp.runtimeconfig.json
+C:\WP\Observer\ObserverImp\bin\Debug\net8.0\ObserverImp.dll
+C:\WP\Observer\ObserverImp\bin\Debug\net8.0\ObserverImp.pdb
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.AssemblyInfoInputs.cache
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.AssemblyInfo.cs
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.csproj.CoreCompileInputs.cache
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.dll
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\refint\ObserverImp.dll
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.pdb
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ObserverImp.genruntimeconfig.cache
+C:\WP\Observer\ObserverImp\obj\Debug\net8.0\ref\ObserverImp.dll

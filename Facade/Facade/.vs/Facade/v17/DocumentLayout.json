@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\pfacade\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\pfacade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\pfacade\\listastudentow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\listastudentow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|c:\\users\\uni.lodz.pl\\onedrive - uniwersytet \u0142\u00F3dzki\\zaj\u0119cia\\wzorce projektowe w programowaniu\\2025\\facade\\pfacade\\dziennik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\dziennik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|c:\\users\\uni.lodz.pl\\onedrive - uniwersytet \u0142\u00F3dzki\\zaj\u0119cia\\wzorce projektowe w programowaniu\\2025\\facade\\pfacade\\dzienniki\\aktywnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\dzienniki\\aktywnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\pfacade\\dzienniki\\oceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\dzienniki\\oceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\pfacade\\dzienniki\\obecnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B2322E-C52F-4891-91E0-FBAF66A4C5EB}|PFacade\\PFacade.csproj|solutionrelative:pfacade\\dzienniki\\obecnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B2E5BB-4FF6-48C9-BCE0-E30625B44D78}|Facade\\Facade.csproj|C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\facade\\subsystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B2E5BB-4FF6-48C9-BCE0-E30625B44D78}|Facade\\Facade.csproj|solutionrelative:facade\\subsystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aktywnosci.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dzienniki\\Aktywnosci.cs",
+              "RelativeDocumentMoniker": "PFacade\\Dzienniki\\Aktywnosci.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dzienniki\\Aktywnosci.cs",
+              "RelativeToolTip": "PFacade\\Dzienniki\\Aktywnosci.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:36:22.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaStudentow.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\ListaStudentow.cs",
+              "RelativeDocumentMoniker": "PFacade\\ListaStudentow.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\ListaStudentow.cs",
+              "RelativeToolTip": "PFacade\\ListaStudentow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:09:52.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oceny.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dzienniki\\Oceny.cs",
+              "RelativeDocumentMoniker": "PFacade\\Dzienniki\\Oceny.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dzienniki\\Oceny.cs",
+              "RelativeToolTip": "PFacade\\Dzienniki\\Oceny.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:07:37.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Program.cs",
+              "RelativeDocumentMoniker": "PFacade\\Program.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Program.cs",
+              "RelativeToolTip": "PFacade\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:05:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dziennik.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dziennik.cs",
+              "RelativeDocumentMoniker": "PFacade\\Dziennik.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dziennik.cs",
+              "RelativeToolTip": "PFacade\\Dziennik.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:04:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Student.cs",
+              "RelativeDocumentMoniker": "PFacade\\Student.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Student.cs",
+              "RelativeToolTip": "PFacade\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:09:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Obecnosci.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dzienniki\\Obecnosci.cs",
+              "RelativeDocumentMoniker": "PFacade\\Dzienniki\\Obecnosci.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\PFacade\\Dzienniki\\Obecnosci.cs",
+              "RelativeToolTip": "PFacade\\Dzienniki\\Obecnosci.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:07:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subsystem1.cs",
+              "DocumentMoniker": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\Facade\\Subsystem1.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystem1.cs",
+              "ToolTip": "C:\\Users\\uni.lodz.pl\\OneDrive - Uniwersytet \u0141\u00F3dzki\\Zaj\u0119cia\\Wzorce projektowe w programowaniu\\2025\\Facade\\Facade\\Subsystem1.cs",
+              "RelativeToolTip": "Facade\\Subsystem1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:04:50.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WP\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\productsb\\productb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\productsb\\productb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\productsb\\productb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\productsb\\productb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\productsa\\producta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\productsa\\producta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\creators\\concretecreator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\creators\\concretecreator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\creators\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\creators\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\creators\\concretecreator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\creators\\concretecreator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\productsa\\producta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\productsa\\producta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\productsa\\producta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\productsa\\producta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|c:\\wp\\factory\\abstractfactory\\products\\productsb\\productb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A7E54-819D-47C2-B8A0-AB10D92993B4}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\productsb\\productb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\creators\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\creators\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\creators\\concretecreator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\creators\\concretecreator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\creators\\concretecreator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\creators\\concretecreator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\products\\concreteproduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\products\\concreteproduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|c:\\wp\\factory\\factorymethod\\products\\concreteproduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AB79B2-9E26-44ED-9719-9D89BBADAB6E}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\products\\concreteproduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|c:\\wp\\factory\\simplefactory\\products\\concreteproduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\products\\concreteproduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|c:\\wp\\factory\\simplefactory\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|c:\\wp\\factory\\simplefactory\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|c:\\wp\\factory\\simplefactory\\products\\concreteproduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\products\\concreteproduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|c:\\wp\\factory\\simplefactory\\products\\concreteproduct3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\products\\concreteproduct3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|c:\\wp\\factory\\simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CED9-E9E2-4E98-8272-59DCE7CCDD38}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Client.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Client.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Client.cs",
+              "RelativeToolTip": "AbstractFactory\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:21:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductA.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsA\\ProductA.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ProductsA\\ProductA.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsA\\ProductA.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ProductsA\\ProductA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:09:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductB.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsB\\ProductB.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ProductsB\\ProductB.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsB\\ProductB.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ProductsB\\ProductB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:09:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductB2.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsB\\ProductB2.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ProductsB\\ProductB2.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsB\\ProductB2.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ProductsB\\ProductB2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:09:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\Product.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\Product.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:07:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:06:28.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConcreteCreator2.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Creators\\ConcreteCreator2.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Creators\\ConcreteCreator2.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Creators\\ConcreteCreator2.cs",
+              "RelativeToolTip": "AbstractFactory\\Creators\\ConcreteCreator2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:18:09.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Creators\\Creator.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Creators\\Creator.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Creators\\Creator.cs",
+              "RelativeToolTip": "AbstractFactory\\Creators\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:07:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcreteCreator1.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Creators\\ConcreteCreator1.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Creators\\ConcreteCreator1.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Creators\\ConcreteCreator1.cs",
+              "RelativeToolTip": "AbstractFactory\\Creators\\ConcreteCreator1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:17:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductA2.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsA\\ProductA2.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ProductsA\\ProductA2.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsA\\ProductA2.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ProductsA\\ProductA2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:08:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductA1.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsA\\ProductA1.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ProductsA\\ProductA1.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsA\\ProductA1.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ProductsA\\ProductA1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:08:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductB1.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsB\\ProductB1.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ProductsB\\ProductB1.cs",
+              "ToolTip": "C:\\WP\\Factory\\AbstractFactory\\Products\\ProductsB\\ProductB1.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ProductsB\\ProductB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:08:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Products\\Product.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Products\\Product.cs",
+              "RelativeToolTip": "FactoryMethod\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:48:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConcreteCreator2.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Creators\\ConcreteCreator2.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Creators\\ConcreteCreator2.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Creators\\ConcreteCreator2.cs",
+              "RelativeToolTip": "FactoryMethod\\Creators\\ConcreteCreator2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:53:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConcreteProduct1.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Products\\ConcreteProduct1.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Products\\ConcreteProduct1.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Products\\ConcreteProduct1.cs",
+              "RelativeToolTip": "FactoryMethod\\Products\\ConcreteProduct1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:48:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Creators\\Creator.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Creators\\Creator.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Creators\\Creator.cs",
+              "RelativeToolTip": "FactoryMethod\\Creators\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:49:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConcreteCreator1.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Creators\\ConcreteCreator1.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Creators\\ConcreteCreator1.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Creators\\ConcreteCreator1.cs",
+              "RelativeToolTip": "FactoryMethod\\Creators\\ConcreteCreator1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:52:24.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:47:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConcreteProduct2.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\FactoryMethod\\Products\\ConcreteProduct2.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Products\\ConcreteProduct2.cs",
+              "ToolTip": "C:\\WP\\Factory\\FactoryMethod\\Products\\ConcreteProduct2.cs",
+              "RelativeToolTip": "FactoryMethod\\Products\\ConcreteProduct2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:49:03.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\SimpleFactory\\Creator.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Creator.cs",
+              "ToolTip": "C:\\WP\\Factory\\SimpleFactory\\Creator.cs",
+              "RelativeToolTip": "SimpleFactory\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:40:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConcreteProduct2.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\SimpleFactory\\Products\\ConcreteProduct2.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Products\\ConcreteProduct2.cs",
+              "ToolTip": "C:\\WP\\Factory\\SimpleFactory\\Products\\ConcreteProduct2.cs",
+              "RelativeToolTip": "SimpleFactory\\Products\\ConcreteProduct2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:37:45.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConcreteProduct1.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\SimpleFactory\\Products\\ConcreteProduct1.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Products\\ConcreteProduct1.cs",
+              "ToolTip": "C:\\WP\\Factory\\SimpleFactory\\Products\\ConcreteProduct1.cs",
+              "RelativeToolTip": "SimpleFactory\\Products\\ConcreteProduct1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:37:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConcreteProduct3.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\SimpleFactory\\Products\\ConcreteProduct3.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Products\\ConcreteProduct3.cs",
+              "ToolTip": "C:\\WP\\Factory\\SimpleFactory\\Products\\ConcreteProduct3.cs",
+              "RelativeToolTip": "SimpleFactory\\Products\\ConcreteProduct3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:37:57.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\SimpleFactory\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Products\\Product.cs",
+              "ToolTip": "C:\\WP\\Factory\\SimpleFactory\\Products\\Product.cs",
+              "RelativeToolTip": "SimpleFactory\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:35:57.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WP\\Factory\\SimpleFactory\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Program.cs",
+              "ToolTip": "C:\\WP\\Factory\\SimpleFactory\\Program.cs",
+              "RelativeToolTip": "SimpleFactory\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:34:44.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

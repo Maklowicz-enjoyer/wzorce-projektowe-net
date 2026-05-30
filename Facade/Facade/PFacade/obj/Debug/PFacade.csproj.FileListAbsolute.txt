@@ -1,0 +1,6 @@
+C:\Users\UŁ\Desktop\Zajęcia\Wzorce\Facade\PFacade\bin\Debug\PFacade.exe.config
+C:\Users\UŁ\Desktop\Zajęcia\Wzorce\Facade\PFacade\bin\Debug\PFacade.exe
+C:\Users\UŁ\Desktop\Zajęcia\Wzorce\Facade\PFacade\bin\Debug\PFacade.pdb
+C:\Users\UŁ\Desktop\Zajęcia\Wzorce\Facade\PFacade\obj\Debug\PFacade.csproj.CoreCompileInputs.cache
+C:\Users\UŁ\Desktop\Zajęcia\Wzorce\Facade\PFacade\obj\Debug\PFacade.exe
+C:\Users\UŁ\Desktop\Zajęcia\Wzorce\Facade\PFacade\obj\Debug\PFacade.pdb
