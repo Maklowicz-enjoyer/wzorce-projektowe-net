@@ -1,0 +1,14 @@
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\bin\Debug\net10.0\mySingleton-implement.exe
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\bin\Debug\net10.0\mySingleton-implement.deps.json
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\bin\Debug\net10.0\mySingleton-implement.runtimeconfig.json
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\bin\Debug\net10.0\mySingleton-implement.dll
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\bin\Debug\net10.0\mySingleton-implement.pdb
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.AssemblyInfoInputs.cache
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.AssemblyInfo.cs
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.csproj.CoreCompileInputs.cache
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.dll
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\refint\mySingleton-implement.dll
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.pdb
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\mySingleton-implement.genruntimeconfig.cache
+C:\Users\phil\source\repos\mySingleton-implement\mySingleton-implement\obj\Debug\net10.0\ref\mySingleton-implement.dll

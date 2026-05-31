@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|c:\\users\\phil\\source\\repos\\mysingleton-implement\\mysingleton-implement\\singletonlazy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|solutionrelative:mysingleton-implement\\singletonlazy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|c:\\users\\phil\\source\\repos\\mysingleton-implement\\mysingleton-implement\\staticreadonly_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|solutionrelative:mysingleton-implement\\staticreadonly_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|c:\\users\\phil\\source\\repos\\mysingleton-implement\\mysingleton-implement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|solutionrelative:mysingleton-implement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|c:\\users\\phil\\source\\repos\\mysingleton-implement\\mysingleton-implement\\singletonthreadlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|solutionrelative:mysingleton-implement\\singletonthreadlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|c:\\users\\phil\\source\\repos\\mysingleton-implement\\mysingleton-implement\\singleton-not-thread-secue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E0B6F3-8218-43C1-831E-70E39763699D}|mySingleton-implement\\mySingleton-implement.csproj|solutionrelative:mysingleton-implement\\singleton-not-thread-secue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\Program.cs",
+              "RelativeDocumentMoniker": "mySingleton-implement\\Program.cs",
+              "ToolTip": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\Program.cs",
+              "RelativeToolTip": "mySingleton-implement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:44:15.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "staticReadonly_Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\staticReadonly_Singleton.cs",
+              "RelativeDocumentMoniker": "mySingleton-implement\\staticReadonly_Singleton.cs",
+              "ToolTip": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\staticReadonly_Singleton.cs",
+              "RelativeToolTip": "mySingleton-implement\\staticReadonly_Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:16:03.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingletonLazy.cs",
+              "DocumentMoniker": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\SingletonLazy.cs",
+              "RelativeDocumentMoniker": "mySingleton-implement\\SingletonLazy.cs",
+              "ToolTip": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\SingletonLazy.cs",
+              "RelativeToolTip": "mySingleton-implement\\SingletonLazy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T10:07:59.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingletonThreadLock.cs",
+              "DocumentMoniker": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\SingletonThreadLock.cs",
+              "RelativeDocumentMoniker": "mySingleton-implement\\SingletonThreadLock.cs",
+              "ToolTip": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\SingletonThreadLock.cs",
+              "RelativeToolTip": "mySingleton-implement\\SingletonThreadLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:57:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Singleton-not-thread-secue.cs",
+              "DocumentMoniker": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\Singleton-not-thread-secue.cs",
+              "RelativeDocumentMoniker": "mySingleton-implement\\Singleton-not-thread-secue.cs",
+              "ToolTip": "C:\\Users\\phil\\source\\repos\\mySingleton-implement\\mySingleton-implement\\Singleton-not-thread-secue.cs",
+              "RelativeToolTip": "mySingleton-implement\\Singleton-not-thread-secue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:45:14.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
