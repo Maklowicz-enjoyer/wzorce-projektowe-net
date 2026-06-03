@@ -1,0 +1,14 @@
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+G:\dotnet\paterns\MVC\MVC\bin\Debug\net8.0\MVC.exe
+G:\dotnet\paterns\MVC\MVC\bin\Debug\net8.0\MVC.deps.json
+G:\dotnet\paterns\MVC\MVC\bin\Debug\net8.0\MVC.runtimeconfig.json
+G:\dotnet\paterns\MVC\MVC\bin\Debug\net8.0\MVC.dll
+G:\dotnet\paterns\MVC\MVC\bin\Debug\net8.0\MVC.pdb
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.dll
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\refint\MVC.dll
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.pdb
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
+G:\dotnet\paterns\MVC\MVC\obj\Debug\net8.0\ref\MVC.dll

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\dotnet\\paterns\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\models\\articlesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\articlesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\models\\articlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\articlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\views\\articlesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\articlesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\views\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\models\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\controllers\\icontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\icontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\controllers\\articlecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\articlecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|g:\\dotnet\\paterns\\mvc\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7927857-D8AB-4DCF-89FD-A691EFD8A5DA}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticlesView.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Views\\ArticlesView.cs",
+              "RelativeDocumentMoniker": "MVC\\Views\\ArticlesView.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Views\\ArticlesView.cs",
+              "RelativeToolTip": "MVC\\Views\\ArticlesView.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:35:21.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleControler.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Controllers\\ArticleControler.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ArticleControler.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Controllers\\ArticleControler.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ArticleControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:27:45.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleModel.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Models\\ArticleModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\ArticleModel.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Models\\ArticleModel.cs",
+              "RelativeToolTip": "MVC\\Models\\ArticleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:25:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesModel.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Models\\ArticlesModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\ArticlesModel.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Models\\ArticlesModel.cs",
+              "RelativeToolTip": "MVC\\Models\\ArticlesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:24:45.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IView.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Views\\IView.cs",
+              "RelativeDocumentMoniker": "MVC\\Views\\IView.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Views\\IView.cs",
+              "RelativeToolTip": "MVC\\Views\\IView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:38:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Models\\IModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\IModel.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Models\\IModel.cs",
+              "RelativeToolTip": "MVC\\Models\\IModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:38:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IControler.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Controllers\\IControler.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\IControler.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Controllers\\IControler.cs",
+              "RelativeToolTip": "MVC\\Controllers\\IControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:38:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T12:19:21.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\MVC\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\MVC\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:19:32.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

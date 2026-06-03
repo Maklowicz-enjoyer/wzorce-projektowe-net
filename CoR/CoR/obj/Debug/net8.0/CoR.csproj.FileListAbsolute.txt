@@ -1,0 +1,14 @@
+G:\dotnet\paterns\CoR\CoR\bin\Debug\net8.0\CoR.exe
+G:\dotnet\paterns\CoR\CoR\bin\Debug\net8.0\CoR.deps.json
+G:\dotnet\paterns\CoR\CoR\bin\Debug\net8.0\CoR.runtimeconfig.json
+G:\dotnet\paterns\CoR\CoR\bin\Debug\net8.0\CoR.dll
+G:\dotnet\paterns\CoR\CoR\bin\Debug\net8.0\CoR.pdb
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.AssemblyInfoInputs.cache
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.AssemblyInfo.cs
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.csproj.CoreCompileInputs.cache
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.dll
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\refint\CoR.dll
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.pdb
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\CoR.genruntimeconfig.cache
+G:\dotnet\paterns\CoR\CoR\obj\Debug\net8.0\ref\CoR.dll

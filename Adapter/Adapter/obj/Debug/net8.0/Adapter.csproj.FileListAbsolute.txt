@@ -1,0 +1,17 @@
+G:\dotnet\paterns\Adapter\Adapter\bin\Debug\net8.0\Adapter.exe
+G:\dotnet\paterns\Adapter\Adapter\bin\Debug\net8.0\Adapter.deps.json
+G:\dotnet\paterns\Adapter\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+G:\dotnet\paterns\Adapter\Adapter\bin\Debug\net8.0\Adapter.dll
+G:\dotnet\paterns\Adapter\Adapter\bin\Debug\net8.0\Adapter.pdb
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.dll
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.pdb
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+G:\dotnet\paterns\Adapter\Adapter\obj\Debug\net8.0\ref\Adapter.dll
+C:\Users\phil\source\repos\Adapter\Adapter\obj\Debug\net8.0\Adapter.dll
+C:\Users\phil\source\repos\Adapter\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+C:\Users\phil\source\repos\Adapter\Adapter\obj\Debug\net8.0\Adapter.pdb

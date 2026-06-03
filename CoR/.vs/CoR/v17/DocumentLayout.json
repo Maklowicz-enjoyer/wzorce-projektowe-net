@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\dotnet\\paterns\\CoR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|g:\\dotnet\\paterns\\cor\\cor\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|solutionrelative:cor\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|g:\\dotnet\\paterns\\cor\\cor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|solutionrelative:cor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|g:\\dotnet\\paterns\\cor\\cor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|solutionrelative:cor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|g:\\dotnet\\paterns\\cor\\cor\\programista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|solutionrelative:cor\\programista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|g:\\dotnet\\paterns\\cor\\cor\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|solutionrelative:cor\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|g:\\dotnet\\paterns\\cor\\cor\\pm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEABCF1-7C8F-4866-BF64-95B9FFB5623C}|CoR\\CoR.csproj|solutionrelative:cor\\pm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CEO.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\CoR\\CoR\\CEO.cs",
+              "RelativeDocumentMoniker": "CoR\\CEO.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\CoR\\CoR\\CEO.cs",
+              "RelativeToolTip": "CoR\\CEO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:49:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PM.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\CoR\\CoR\\PM.cs",
+              "RelativeDocumentMoniker": "CoR\\PM.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\CoR\\CoR\\PM.cs",
+              "RelativeToolTip": "CoR\\PM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:48:56.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programista.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\CoR\\CoR\\Programista.cs",
+              "RelativeDocumentMoniker": "CoR\\Programista.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\CoR\\CoR\\Programista.cs",
+              "RelativeToolTip": "CoR\\Programista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:48:46.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\CoR\\CoR\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "CoR\\OrderRequest.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\CoR\\CoR\\OrderRequest.cs",
+              "RelativeToolTip": "CoR\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:47:30.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\CoR\\CoR\\Employee.cs",
+              "RelativeDocumentMoniker": "CoR\\Employee.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\CoR\\CoR\\Employee.cs",
+              "RelativeToolTip": "CoR\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:45:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\CoR\\CoR\\Program.cs",
+              "RelativeDocumentMoniker": "CoR\\Program.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\CoR\\CoR\\Program.cs",
+              "RelativeToolTip": "CoR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:44:51.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

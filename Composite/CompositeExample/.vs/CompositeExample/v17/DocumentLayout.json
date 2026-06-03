@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|c:\\nasze dokumenty\\cyprian moliszewski\\wzorce\\composite\\compositeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|c:\\nasze dokumenty\\cyprian moliszewski\\wzorce\\composite\\compositeexample\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|solutionrelative:leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|c:\\nasze dokumenty\\cyprian moliszewski\\wzorce\\composite\\compositeexample\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|solutionrelative:composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|c:\\nasze dokumenty\\cyprian moliszewski\\wzorce\\composite\\compositeexample\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B822DB5-41D8-4983-A175-435C4E8C9243}|CompositeExample.csproj|solutionrelative:component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Leaf.cs",
+              "RelativeDocumentMoniker": "Leaf.cs",
+              "ToolTip": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Leaf.cs",
+              "RelativeToolTip": "Leaf.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:05:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Component.cs",
+              "RelativeDocumentMoniker": "Component.cs",
+              "ToolTip": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Component.cs",
+              "RelativeToolTip": "Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:58:03.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:57:47.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Composite.cs",
+              "RelativeDocumentMoniker": "Composite.cs",
+              "ToolTip": "C:\\Nasze Dokumenty\\Cyprian Moliszewski\\Wzorce\\Composite\\CompositeExample\\Composite.cs",
+              "RelativeToolTip": "Composite.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:00:20.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

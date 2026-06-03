@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\dotnet\\paterns\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|g:\\dotnet\\paterns\\adapter\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|g:\\dotnet\\paterns\\adapter\\adapter\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|solutionrelative:adapter\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|g:\\dotnet\\paterns\\adapter\\adapter\\adaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|solutionrelative:adapter\\adaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|g:\\dotnet\\paterns\\adapter\\adapter\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DF04ED-887A-40B9-80B4-00967A0B1E16}|Adapter\\Adapter.csproj|solutionrelative:adapter\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Adapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\Adapter.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Adapter.cs",
+              "RelativeToolTip": "Adapter\\Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:30:16.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adaptee.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Adaptee.cs",
+              "RelativeDocumentMoniker": "Adapter\\Adaptee.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Adaptee.cs",
+              "RelativeToolTip": "Adapter\\Adaptee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:29:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Target.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Target.cs",
+              "RelativeDocumentMoniker": "Adapter\\Target.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Target.cs",
+              "RelativeToolTip": "Adapter\\Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:29:43.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "G:\\dotnet\\paterns\\Adapter\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:29:13.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
